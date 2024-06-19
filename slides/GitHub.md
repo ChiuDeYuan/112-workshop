@@ -4,7 +4,7 @@ type:slide
 
 # Git & GitHub
 中部電資聯合會議幹訓
-![p7YfXro-removebg-preview](https://hackmd.io/_uploads/SJPkw41UA.png)
+![.](../img/GitHub/icon.png)
 
 ---
 
